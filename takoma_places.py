@@ -18,7 +18,7 @@ for address in address_components:
 latitude = b.find('location').find('lat').text
 longitude = b.find('location').find('lng').text
 
-gmaps = googlemaps.Client(key='AIzaSyBFDjlbx8jNOc1Cdqni4tri0Xka_fqjGc8')
+gmaps = googlemaps.Client(key='INSERTAPIKEYHERE')
 gmaps.reverse_geocode((latitude,longitude))
 gmaps.places('Takoma Park', location=(latitude, longitude), radius=1000)
 

@@ -1,8 +1,3 @@
-#Takoma Beverage Company
-#ChIJF0626YLIt4kR0Q3xzWExGnk
-#https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJF0626YLIt4kR0Q3xzWExGnk&fields=photos,formatted_address,name,rating,price_level,opening_hours,reviews,geometry&key=AIzaSyCSp7eUtne91wcK2thVDc7WPbUnIjOu2iM
-#https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Takoma%20Beverage%20Company&inputtype=textquery&fields=photos,formatted_address,name,rating,price_level,reviews,opening_hours,geometry&key=AIzaSyCSp7eUtne91wcK2thVDc7WPbUnIjOu2iM
-
 import requests
 import json
 import time
@@ -13,7 +8,7 @@ import time
 class GooglePlaces(object):
     def __init__(self, apiKey):
         super(GooglePlaces, self).__init__()
-        self.apiKey = 'AIzaSyCSp7eUtne91wcK2thVDc7WPbUnIjOu2iM'
+        self.apiKey = 'INSERTAPIKEYHERE'
 
 #Add search funcitonailiy to class - enter a GPS coordinate and radius and will return all nearby places
 # Change so that it searches for just
@@ -50,7 +45,7 @@ class GooglePlaces(object):
         return place_details
 
 
-api = GooglePlaces('AIzaSyCSp7eUtne91wcK2thVDc7WPbUnIjOu2iM')
+api = GooglePlaces('INSERTAPIKEYHERE')
 
 places = api.search_places_by_coordinate("Takoma Park", "1000", "restaurant")
 
