@@ -1,0 +1,47 @@
+name,address,type,price_level,rating
+Takoma,"327 Cedar St NW, Washington, DC 20012, USA",subway_station,NA,4.2
+name,address,type,price_level,rating
+Red Apple Farmers Market,"7645 New Hampshire Ave, Takoma Park, MD 20912, USA",supermarket,NA,4.1
+Megamart,"1101 University Blvd E, Takoma Park, MD 20912, USA",supermarket,NA,4.1
+Universal Super Market,"8639 Flower Ave, Silver Spring, MD 20901, USA",supermarket,NA,4.6
+ALDI,"7609 New Hampshire Ave, Adelphi, MD 20783, USA",supermarket,1,4.3
+Atlantic Supermarket,"7901 New Hampshire Ave, Adelphi, MD 20783, USA",supermarket,NA,4.1
+Dollar Century Plus,"8713 Flower Ave, Silver Spring, MD 20901, USA",supermarket,NA,4
+Mercadito Ramos,"8000 New Hampshire Ave, Adelphi, MD 20783, USA",supermarket,NA,4.1
+Bestway,"8540 Piney Branch Rd, Silver Spring, MD 20901, USA",supermarket,NA,4
+name,address,type,price_level,rating
+Tifereth Israel Congregation,"7701 16th St NW, Washington, DC 20012, USA",synagogue,NA,4.3
+Woodside Synagogue Ahavas Torah,"9001 Georgia Ave, Silver Spring, MD 20910, USA",synagogue,NA,4.8
+Ohev Sholom - The National Synagogue,"1600 Jonquil St NW, Washington, DC 20012, USA",synagogue,NA,4.9
+Fabrangen Havurah,"7750 16th St NW, Washington, DC 20012, USA",synagogue,NA,NA
+Kawior Samuel,"9211 Kingsbury Dr, Silver Spring, MD 20910, USA",synagogue,NA,NA
+Mikvah of Washington,"8901 Georgia Ave, Silver Spring, MD 20910, USA",synagogue,NA,5
+Abramowitz A Nathan,"7832 16th St NW, Washington, DC 20012, USA",synagogue,NA,NA
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Takoma,"327 Cedar St NW, Washington, DC 20012, USA",transit_station,NA,4.2
+Takoma Langley Park Transit Center - Bus Bay B,"Langley Park, MD 20783, USA",transit_station,NA,NA
+University Blvd & New Hampshire Ave,"Langley Park, MD 20783, USA",transit_station,NA,4.7
+Takoma-Langley Transit Center & Ba,"Langley Park, MD 20912, USA",transit_station,NA,5
+Takoma Station & Bus Bay E,"Washington, DC 20012, USA",transit_station,NA,5
+Silver Spring Station,"8400 Colesville Rd, Silver Spring, MD 20910, USA",transit_station,NA,4.1
+Takoma Station & Bus Bay D,"Washington, DC 20012, USA",transit_station,NA,NA
+Silver Spring Station & Bus Bay 114,"Silver Spring, MD 20910, USA",transit_station,NA,4
+Fort Totten Station,"550 Galloway St NE, Washington, DC 20011, USA",transit_station,NA,3.8
+"Takoma Station & Bay G, H, J","Washington, DC 20012, USA",transit_station,NA,5
+University Blvd E + W Park Dr,"Adelphi, MD 20783, USA",transit_station,NA,NA
+Silver Spring Station & Bus Bay F,"Silver Spring, MD 20910, USA",transit_station,NA,NA
+Silver Spring Station & Bus Bay 218,"Silver Spring, MD 20910, USA",transit_station,NA,2.6
+University Blvd & Riggs Rd,"Langley Park, MD 20783, USA",transit_station,NA,4
+Fort Totten Station Bus Bay,"Washington, DC 20011, USA",transit_station,NA,5
+Silver Spring Metro Station,"Silver Spring, MD 20910, USA",transit_station,NA,4
+name,address,type,price_level,rating
+Skyward Travel Center,"8630 Flower Ave, Takoma Park, MD 20912, USA",travel_agency,NA,4.3
+Valdemar Travel,"7676 New Hampshire Ave, Takoma Park, MD 20912, USA",travel_agency,NA,3.7
+Moonlight Travel & Services,"7663 New Hampshire Ave, Takoma Park, MD 20912, USA",travel_agency,NA,4.8
+Coastal Travel,"7521 New Hampshire Ave, Takoma Park, MD 20912, USA",travel_agency,NA,NA
+Express-visas,"7676 New Hampshire Ave, Takoma Park, MD 20912, USA",travel_agency,NA,NA
+name,address,type,price_level,rating
+Takoma Park Animal Clinic,"7330 Carroll Ave #4514, Takoma Park, MD 20912, USA",veterinary_care,NA,4.5
+name,address,type,price_level,rating

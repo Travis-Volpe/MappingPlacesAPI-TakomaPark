@@ -1,0 +1,328 @@
+name,address,type,price_level,rating
+Jasons Sub Shop,"916 East-West Hwy, Takoma Park, MD 20912, USA",meal_takeaway,NA,3.3
+Peter's Sub Shop,"7603 Maple Ave, Takoma Park, MD 20912, USA",meal_takeaway,1,4.4
+Eastern Carryout,"8555 Piney Branch Rd, Silver Spring, MD 20901, USA",meal_takeaway,NA,3.5
+Little Caesars Pizza,"1137-A University Blvd E, Takoma Park, MD 20912, USA",meal_takeaway,1,4.2
+Taco Bell,"1300 Holton Ln, Takoma Park, MD 20912, USA",meal_takeaway,1,4.1
+Pollo Campero,"1355 University Blvd E, Takoma Park, MD 20912, USA",meal_takeaway,1,3.9
+Pizza Boli's,"7831 Eastern Ave NW, Silver Spring, MD 20910, USA",meal_takeaway,1,4
+Flower Deli,"8707 Flower Ave, Silver Spring, MD 20901, USA",meal_takeaway,1,4.5
+Ledo Pizza,"7435 Georgia Ave NW, Washington, DC 20012, USA",meal_takeaway,2,4.4
+Twin Dragon Carry-Out,"5504 3rd St NW, Washington, DC 20011, USA",meal_takeaway,1,4.3
+Copper Canyon Grill,"928 Ellsworth Dr, Silver Spring, MD 20910, USA",meal_takeaway,2,4.3
+Panera Bread,"8541 Georgia Ave, Silver Spring, MD 20910, USA",meal_takeaway,2,4.2
+name,address,type,price_level,rating
+IMAAM Center,"9100 Georgia Ave, Silver Spring, MD 20910, USA",mosque,NA,4.8
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Regal Majestic & IMAX,"900 Ellsworth Dr, Silver Spring, MD 20910, USA",movie_theater,NA,4.2
+name,address,type,price_level,rating
+MD Expert Movers,"8409 Greenwood Ave, Takoma Park, MD 20912, USA",moving_company,NA,5
+U-Haul Moving & Storage of Takoma Park,"6889 New Hampshire Ave, Takoma Park, MD 20912, USA",moving_company,1,3.3
+AJ Moving Services LLC,"712 Seek Ln, Takoma Park, MD 20912, USA",moving_company,NA,5
+My Silver Spring Best Twins Movers | Mover & Moving Company and Commercial Mover,"1813 Mt Pisgah Ln #11, Silver Spring, MD 20903, USA",moving_company,NA,4.3
+Investments Move Mountain,"21 Sussex Rd, Silver Spring, MD 20910, USA",moving_company,NA,NA
+ezStorage,"1352 Holton Ln, Takoma Park, MD 20912, USA",moving_company,NA,4.9
+Gentle Giant Moving Company,"5782 2nd St NE, Washington, DC 20011, USA",moving_company,NA,4.8
+"Diligent Transportation, Inc.","817 Silver Spring Ave #409B, Silver Spring, MD 20910, USA",moving_company,NA,NA
+On the Go Transportation,"6856 Eastern Ave NW, Washington, DC 20012, USA",moving_company,NA,NA
+FECH Moving & Cleaning Company,"8455 Fenton St, Silver Spring, MD 20910, USA",moving_company,NA,5
+Flow Box Movers LLc,"5650 3rd St NE, Washington, DC 20011, USA",moving_company,NA,NA
+BR Movers,"5644 3rd St NE, Washington, DC 20011, USA",moving_company,NA,3.2
+Flat Rate Moving Estimates,"5650 3rd St NE, Washington, DC 20011, USA",moving_company,NA,3.5
+Maryland Best Movers,"5650a 3rd St NE, Washington, DC 20011, USA",moving_company,NA,5
+No Problemo Movers LLC,"5301 New Hampshire Ave NW unit 302, Washington, DC 20011, USA",moving_company,NA,NA
+Sentry Installation Inc,"Washington, DC 20011, USA",moving_company,NA,NA
+Kevin Dockett Trucking Inc,"7600 Georgia Ave NW, Washington, DC 20012, USA",moving_company,NA,NA
+Universal Auto Transport,"6912 4th St NW, Washington, DC 20012, USA",moving_company,NA,NA
+Extra Space Storage,"7722 Fenton St, Silver Spring, MD 20910, USA",moving_company,NA,4.8
+D H Moving & Storage Inc,"5447 16th Ave, Hyattsville, MD 20783, USA",moving_company,NA,5
+MD Movers,"2236 Washington Ave, Silver Spring, MD 20910, USA",moving_company,NA,5
+Extra Space Storage,"6011 Blair Rd NW, Washington, DC 20011, USA",moving_company,NA,4.7
+"MOUNT RAINIER, Moving Services- Angel Van Lines LLC","2703 Queens Chapel Rd, Mt Rainier, MD 20712, USA",moving_company,NA,5
+name,address,type,price_level,rating
+Thomas-Siegler House and Garden,"205 Tulip Ave, Takoma Park, MD 20912, USA",museum,NA,3
+Takoma Park Parade - Div II Line Up Spot,"Takoma Park, MD 20912, USA",museum,NA,NA
+Monumento a Abraham Lincoln,"7411 New Hampshire Ave, Takoma Park, MD 20912, USA",museum,NA,NA
+name,address,type,price_level,rating
+Olive Lounge & Grill,"7006 Carroll Ave, Takoma Park, MD 20912, USA",night_club,1,4.7
+Takoma Park/Silver Spring Jazz Center,"901-913 Jesup Blair Dr, Silver Spring, MD 20912, USA",night_club,NA,5
+Diversity Hooka lounge,"7910 Georgia Ave, Silver Spring, MD 20910, USA",night_club,1,4.1
+Golf Ultra Lounge,"8123 Georgia Ave, Silver Spring, MD 20910, USA",night_club,2,3.6
+Champion Kitchen,"7730 Georgia Ave NW, Washington, DC 20012, USA",night_club,NA,4.2
+Yefri casa,"Croydon Ct, Silver Spring, MD 20901, USA",night_club,NA,NA
+Shady hooka lounge,"5320 Georgia Ave NW #2nd-Flr, Washington, DC 20011, USA",night_club,NA,NA
+Cerebral Lounge,"8403 Colesville Rd, Silver Spring, MD 20910, USA",night_club,NA,5
+name,address,type,price_level,rating
+Olive Lounge & Grill,"7006 Carroll Ave, Takoma Park, MD 20912, USA",night_club,1,4.7
+Takoma Park/Silver Spring Jazz Center,"901-913 Jesup Blair Dr, Silver Spring, MD 20912, USA",night_club,NA,5
+Diversity Hooka lounge,"7910 Georgia Ave, Silver Spring, MD 20910, USA",night_club,1,4.1
+Golf Ultra Lounge,"8123 Georgia Ave, Silver Spring, MD 20910, USA",night_club,2,3.6
+Champion Kitchen,"7730 Georgia Ave NW, Washington, DC 20012, USA",night_club,NA,4.2
+Yefri casa,"Croydon Ct, Silver Spring, MD 20901, USA",night_club,NA,NA
+Shady hooka lounge,"5320 Georgia Ave NW #2nd-Flr, Washington, DC 20011, USA",night_club,NA,NA
+Cerebral Lounge,"8403 Colesville Rd, Silver Spring, MD 20910, USA",night_club,NA,5
+name,address,type,price_level,rating
+Ivan's Painters,"7338 Piney Branch Rd, Takoma Park, MD 20912, USA",painter,NA,NA
+Davila Plastering & Painting,"8503 Haskins Pl, Takoma Park, MD 20912, USA",painter,NA,NA
+JTP Painting Co,"620 Sligo Ave, Silver Spring, MD 20910, USA",painter,NA,5
+Cumberbatch Jackie,"805 Philadelphia Ave, Silver Spring, MD 20910, USA",painter,NA,NA
+Joines Painting,"6495 New Hampshire Ave NE # 210, Hyattsville, MD 20783, USA",painter,NA,NA
+Palmer Brothers Painting & Gen,"8121 Piney Branch Rd, Silver Spring, MD 20910, USA",painter,NA,4.3
+Robert Hemsley Painting Co,"737 Aspen St NW, Washington, DC 20012, USA",painter,NA,NA
+S & P House Painters,"8215 Fenton St, Silver Spring, MD 20910, USA",painter,NA,5
+Quinonez Art Works,"817 Silver Spring Ave, Silver Spring, MD 20910, USA",painter,NA,NA
+Centennial Builders Inc,"5646 3rd St NE Suite B, Washington, DC 20011, USA",painter,NA,5
+E.C.A.PAITING LLC,"9316 Piney Branch Rd apt 205, Silver Spring, MD 20903, USA",painter,NA,NA
+J M Contractor Services LLC,"1613 Amherst Rd, Hyattsville, MD 20783, USA",painter,NA,5
+Quinn Painting Decorating,"706 Buckingham Dr, Silver Spring, MD 20901, USA",painter,NA,NA
+G & R Painting LLC,"8037 New Riggs Rd, Hyattsville, MD 20783, USA",painter,NA,NA
+GT Pro-painting and Design,"8107 15th Ave, Hyattsville, MD 20783, USA",painter,NA,NA
+Edy's House Painting & Remodeling,"2109 Beechwood Rd, Hyattsville, MD 20783, USA",painter,NA,5
+"Confia Painting LLC - Professional Painting Company, Interior Painting Contractor Silver Spring MD","2119 Shorefield Rd, Silver Spring, MD 20902, USA",painter,NA,5
+Mardo Painting,"4916, 2200 Hannon St, Hyattsville, MD 20783, USA",painter,NA,5
+Paul Devincenti Interiors Group,"1207 Hamilton St NW, Washington, DC 20011, USA",painter,NA,5
+Enw Commercial Painting,"1920 Lebanon St, Hyattsville, MD 20783, USA",painter,NA,NA
+Al's Painting,"Silver Spring, MD 20901, USA",painter,NA,5
+E.G & L Painting,"2300 Fordham St, Hyattsville, MD 20783, USA",painter,NA,NA
+Carrasco Painting,"2400 Hannon St, Hyattsville, MD 20783, USA",painter,NA,NA
+Butch Rall's Pride 'n Painting,"210 Indian Spring Dr, Silver Spring, MD 20901, USA",painter,NA,NA
+LUISDJOBS LLC,"5110 13th St NW, Washington, DC 20011, USA",painter,NA,5
+Quality Painting & Plastering,"508 E Indian Spring Dr, Silver Spring, MD 20901, USA",painter,NA,NA
+Rosas Painting,"8209 New Hampshire Ave, Hyattsville, MD 20783, USA",painter,NA,NA
+Ww Design,"112 Granville Dr, Silver Spring, MD 20901, USA",painter,NA,NA
+Kitchen Cabinet Painting,"2008 Osborn Dr, Silver Spring, MD 20910, USA",painter,NA,NA
+Yanni's Painting Co Inc,"1926 Locust Grove Rd, Silver Spring, MD 20910, USA",painter,NA,NA
+J.O. Painting Company Inc.,"2119 Rolander St, Hyattsville, MD 20783, USA",painter,NA,5
+R&A Services LLC,"2112 Saranac St, Adelphi, MD 20783, USA",painter,NA,NA
+name,address,type,price_level,rating
+Takoma-Piney Branch Local Park,"2 Darwin Ave, Silver Spring, MD 20910, USA",park,NA,4.4
+Belle Ziegler Park,"7350 Takoma Ave & Albany Ave, Takoma Park, MD 20912, USA",park,NA,4
+Heffner Park,"42 Oswego Ave, Takoma Park, MD 20912, USA",park,NA,4.8
+Takoma Park Dog Park,"198 Darwin Ave, Takoma Park, MD 20912, USA",park,NA,4.1
+Takoma Urban Park,"7035 Carroll Ave, Takoma Park, MD 20912, USA",park,NA,4.3
+Takoma Park Public Works Department,"31 Oswego Ave, Takoma Park, MD 20912, USA",park,NA,4.7
+Sligo Creek North Neighborhood Park,"Anacostia Tributary Trail System, Takoma Park, MD 20912, USA",park,NA,4.6
+Jackson-Boyd Neighborhood Park,"7398 Jackson Ave #7300, Takoma Park, MD 20912, USA",park,NA,4.6
+Hillwood Manor Park,"1301 Elson St, Takoma Park, MD 20912, USA",park,NA,4.4
+Becca Lilly Neighborhood Park,"7330 Glenside Dr, Takoma Park, MD 20912, USA",park,NA,4.7
+Opal A. Daniels Neighborhood Park,"7515 Hancock Ave, Takoma Park, MD 20912, USA",park,NA,4.5
+Sligo Mill Overlook Community Garden,"6400 Orchard Ave, Takoma Park, MD 20912, USA",park,NA,4.8
+Takoma Park South Neighborhood Park,"6500 Allegheny Ave, Takoma Park, MD 20912, USA",park,NA,5
+Silver Spring Intermediate Neighborhood Park,"7801 Chicago Ave, Takoma Park, MD 20912, USA",park,NA,4.3
+Sligo Mill Overlook Neighborhood Park,"6400 Orchard Ave, Takoma Park, MD 20912, USA",park,NA,5
+Upper Portal Park,"Piney Branch Road at, Takoma Ave, Takoma Park, MD 20912, USA",park,NA,5
+The President's Tree,"Takoma Park, MD 20912, USA",park,NA,5
+Sligo Creek SVU 1A South end,"Takoma Park, MD 20912, USA",park,NA,NA
+Sligo Creek Stream Valley Unit #1,"Chaney Drive N.W. to Piney Branch Road, Takoma Park, MD 20912, USA",park,NA,3.8
+Long Branch SVU1A South end,"Takoma Park, MD 20912, USA",park,NA,NA
+Sligo Creek SVU 1A North end,"Takoma Park, MD 20912, USA",park,NA,NA
+A S D F Linda,"706 Erie Ave, Takoma Park, MD 20912, USA",park,NA,3
+Jesup Blair Local Park,"900 Jesup Blair Dr, Silver Spring, MD 20910, USA",park,NA,4.2
+Sligo Avenue Neighborhood Park,"500 Sligo Ave, Silver Spring, MD 20910, USA",park,NA,4.1
+Lamond Recreation Center,"20 Tuckerman St NE, Washington, DC 20011, USA",park,NA,3.9
+Seek Lane Neighborhood Park,"701 Seek Ln, Silver Spring, MD 20901, USA",park,NA,4.8
+Dale Drive Neighborhood Park,"125 Dale Dr, Silver Spring, MD 20910, USA",park,NA,4.4
+Houston-Sligo Creek Park,"Silver Spring, MD 20910, USA",park,NA,4.8
+Piney Branch Portal Park,"7400 Piney Branch Rd NW, Washington, DC 20012, USA",park,NA,5
+Takoma Elementary Recreation Center,"Washington, DC 20012, USA",park,NA,5
+Juniper-Blair Neighborhood Park,"Silver Spring, MD 20912, USA",park,NA,NA
+Triangle Park,"6911-6923 4th St NW, Washington, DC 20012, USA",park,NA,NA
+Long Branch Local Park,"8700 Piney Branch Rd, Silver Spring, MD 20901, USA",park,NA,4.2
+Long Branch-Garland Neighborhood Park,"8601 Garland Ave, Silver Spring, MD 20901, USA",park,NA,4
+Legacy Memorial Park,"5801 South Dakota Ave NE, Washington, DC 20011, USA",park,NA,4.6
+Long Branch SVU 1 South end,"7933 Long Branch Pkwy, Silver Spring, MD 20903, USA",park,NA,NA
+Dale Drive Neighborhood Park,"125 Dale Dr, Silver Spring, MD 20910, USA",park,NA,3.5
+Sligo Creek SVU 1 North end,"8510 Sligo Creek Pkwy, Silver Spring, MD 20910, USA",park,NA,NA
+Fort Slocum Park,"5800 Kansas Ave NW, Washington, DC 20011, USA",park,NA,4.1
+Fenton Street Urban Park,"7904 Fenton St, Silver Spring, MD 20910, USA",park,NA,3.3
+Marvin Caplan Park,"Holly St NW, Washington, DC 20012, USA",park,NA,5
+Acorn Urban Park,"8060 Newell St, Silver Spring, MD 20910, USA",park,NA,4.3
+Long Branch-Arliss Neighborhood Park,"8810 Garland Ave, Silver Spring, MD 20901, USA",park,NA,4.2
+Shepherd Park,"1425 Jonquil St NW, Washington, DC 20012, USA",park,NA,4.7
+Bullis Park,"8501 Houston St, Silver Spring, MD 20910, USA",park,NA,4.1
+Nolte Local Park,"200 Denver Rd, Silver Spring, MD 20910, USA",park,NA,4.4
+Sligo Cabin Neighborhood Park,"201 Wayne Ave, Silver Spring, MD 20910, USA",park,NA,4.2
+Long Branch - Wayne Park,"509 University Blvd E, Silver Spring, MD 20901, USA",park,NA,4.2
+Lake Manor Community Park,"W Park Dr, Chillum, MD 20782, USA",park,NA,4.5
+Langley Hampshire Neighborhood Park,"Anacostia Tributary Trail System, Adelphi, MD 20783, USA",park,NA,4.6
+The Pearl Playground,"175 High Park Ln, Silver Spring, MD 20910, USA",park,NA,3.3
+Emery Heights Park,"5801 Georgia Ave NW, Washington, DC 20011, USA",park,NA,NA
+Maryland National Capital Park,"6120 Sargent Rd, Hyattsville, MD 20782, USA",park,NA,4.5
+Parking deck,"815 Ellsworth Dr, Silver Spring, MD 20910, USA",park,NA,3
+Riggs Road Playground,"Washington, DC 20011, USA",park,NA,4.1
+Ellsworth Urban Park,"621 Ellsworth Dr, Silver Spring, MD 20910, USA",park,NA,4.4
+Rock Creek Park Grove 10,"Beach Dr NW, Washington, DC 20015, USA",park,NA,4.9
+Michigan Park Hills Park,"1501 Chillum Rd, Chillum, MD 20782, USA",park,NA,4.5
+Sligo-Bennington Neighborhood Park,"599 Bennington Dr, Silver Spring, MD 20910, USA",park,NA,4.3
+Adelphi Manor Community Park/ Cricket Field,"W Park Dr, Adelphi, MD 20783, USA",park,NA,4.2
+name,address,type,price_level,rating
+201-299 Carroll St NW Parking,"201-299 Carroll St NW, Washington, DC 20012, USA",parking,NA,2.5
+Parking Lot,"7805 Greenwood Ave, Takoma Park, MD 20912, USA",parking,NA,NA
+Metro Parking Lot,"7024 Eastern Ave NW, Washington, DC 20012, USA",parking,NA,5
+7000 Carroll Ave Parking,"7000 Carroll Ave, Washington, MD 20012, USA",parking,NA,4
+112 Carroll St NW Parking,"112 Carroll St NW, Washington, DC 20012, USA",parking,NA,NA
+One Parking,"6856 Eastern Ave NW, Washington, DC 20012, USA",parking,NA,NA
+East garage,"7740 Fenton St, Silver Spring, MD 20910, USA",parking,NA,3.8
+West Garage,"930 King St, Silver Spring, MD 20910, USA",parking,NA,5
+name,address,type,price_level,rating
+The Big Bad Woof,"6960 Maple St NW, Washington, DC 20012, USA",pet_store,NA,4.7
+name,address,type,pharmacy,rating
+name,address,type,price_level,rating
+Walgreens Pharmacy,"1329 University Blvd E, Takoma Park, MD 20912, USA",pharmacy,2,4.5
+Shoppers,"6881 New Hampshire Ave, Takoma Park, MD 20912, USA",pharmacy,NA,4.2
+Takoma Park Family Pharmacy,"7610 Carroll Ave # 110, Takoma Park, MD 20912, USA",pharmacy,NA,4
+CVS Pharmacy,"110 Carroll St NW, Washington, DC 20012, USA",pharmacy,NA,1
+CVS Pharmacy,"7939 New Hampshire Ave, Adelphi, MD 20783, USA",pharmacy,NA,3.4
+Giant Pharmacy,"8750 Arliss St, Silver Spring, MD 20901, USA",pharmacy,2,4.6
+Hope For All Pharmacy & STORES,"1425 University Blvd E # 151, Hyattsville, MD 20783, USA",pharmacy,NA,4
+name,address,type,price_level,rating
+Active Physical Therapy,"1535 University Blvd E d, Hyattsville, MD 20783, USA",physiotherapist,NA,5
+"Hilary Hill, PT","7600 Carroll Ave, Takoma Park, MD 20912, USA",physiotherapist,NA,NA
+name,address,type,price_level,rating
+Durance Plumbing,"7304 Carroll Ave #149, Takoma Park, MD 20912, USA",plumber,NA,5
+Plumbing Takoma Park,"7214 Carroll Ave, Takoma Park, MD 20912, USA",plumber,NA,3
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+United States Postal Service,"6909 Laurel Ave, Takoma Park, MD 20912, USA",post_office,NA,3.5
+United States Postal Service,"1325 Holton Ln, Takoma Park, MD 20912, USA",post_office,NA,2.2
+name,address,type,price_level,rating
+Long & Foster Real Estate,"7050 Carroll Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+"Long & Foster Takoma Park, MD","1 Columbia Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,5
+David Maplesden Realtor,"1 Columbia Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Skipjack Real Estate Inc,"6411 Orchard Ave # 203, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Lauren Donnelly Real Estate,"6617 Eastern Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+"Sky Properties, LLC","8326 Roanoke Ave #4, Takoma Park, MD 20912, USA",real_estate_agency,NA,2.6
+Mid-Atlantic Realty,"6411 Orchard Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Property One Stop Shop-Md,"6480 New Hampshire Ave NE, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Fifth Estate,"6930 Carroll Ave # 412, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+LeeBuysHouses,"19 Columbia Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Urciolo & Urciolo,"6935 Laurel Ave # 100, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Levin AllStars/Long and Foster,"7050 Carroll Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Alfred Ekuban & Associates Inc,"6875 New Hampshire Ave # 202, Takoma Park, MD 20912, USA",real_estate_agency,NA,5
+"At BTT Management, LLC","8201 Flower Ave #5, Takoma Park, MD 20912, USA",real_estate_agency,NA,5
+tom dant,"7406 Carroll Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+A place for community year round. Urban infill,"201 Ethan Allen Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Yarnell Kristi,"8206 Flower Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+Coats Greg,"7513 Maple Ave, Takoma Park, MD 20912, USA",real_estate_agency,NA,NA
+name,address,type,price_level,rating
+Republic,"6939 Laurel Ave, Takoma Park, MD 20912, USA",restaurant,2,4.4
+Trattoria da Lina,"7000 Carroll Ave, Takoma Park, MD 20912, USA",restaurant,2,4.6
+Mark's Kitchen,"7006 Carroll Ave, Takoma Park, MD 20912, USA",restaurant,1,4.5
+Kin Da,"6923 Laurel Ave, Takoma Park, MD 20912, USA",restaurant,2,4.5
+Roscoe's Pizzeria,"7040 Carroll Ave, Takoma Park, MD 20912, USA",restaurant,2,4.4
+Busboys and Poets,"235 Carroll St NW, Washington, DC 20012, USA",restaurant,2,4.4
+Seoul Food D.C.,"7302 Carroll Ave, Takoma Park, MD 20912, USA",restaurant,1,4.7
+Cielo Rojo Restaurant,"7056 Carroll Ave, Takoma Park, MD 20912, USA",restaurant,2,4.7
+Peter's Sub Shop,"7603 Maple Ave, Takoma Park, MD 20912, USA",restaurant,1,4.4
+Tiffin,"1341 University Blvd E, Takoma Park, MD 20912, USA",restaurant,2,4.2
+Woodlands Vegetarian Restaurant,"8046 New Hampshire Ave, Adelphi, MD 20783, USA",restaurant,2,4.2
+La Casita Pupuseria & Market,"8214 Piney Branch Rd, Silver Spring, MD 20910, USA",restaurant,1,4.4
+Tropicana Majahual Restaurant,"8638 Flower Ave, Takoma Park, MD 20912, USA",restaurant,1,4.1
+El Paraiso Restaurant,"6515 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.2
+Caribbean Sea,"6869 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,3,4.3
+IHOP,"7405 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,3.9
+Mid Atlantic Seafood,"6500 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,4.4
+Udupi Palace,"1341 University Blvd E, Takoma Park, MD 20912, USA",restaurant,1,4
+Los Pollos Restaurant,"6842 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.1
+Caribbean Palace Restaurant,"7680 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,2,3.8
+No.1 China,"7643 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.4
+Tom's Chinese Kitchen,"6853 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,3.8
+Sardi's Pollo A La Brasa - Langley Park,"1159 University Blvd E, Takoma Park, MD 20912, USA",restaurant,1,4.2
+Spicy Delight,"308 Carroll St NW, Washington, DC 20012, USA",restaurant,2,4.7
+Mansa Kunda Restaurant,"8000 Flower Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.7
+Taco Bell,"1300 Holton Ln, Takoma Park, MD 20912, USA",restaurant,1,4.1
+Little Caesars Pizza,"1137-A University Blvd E, Takoma Park, MD 20912, USA",restaurant,1,4.2
+Manna Restaurant,"#G11, La Union Mall, University Blvd E, Hyattsville, MD 20783, USA",restaurant,2,4.2
+Mogotillo,"7637 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.1
+Walia Restaurant,"6846 New Hampshire Ave, Silver Spring, MD 20912, USA",restaurant,NA,4.2
+El Marinero,"1319 University Blvd E, Takoma Park, MD 20912, USA",restaurant,NA,3.6
+Caribbean Garden,"6331 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,3.7
+Pupuseria El Comalito,"1167 University Blvd E, Takoma Park, MD 20912, USA",restaurant,2,3.6
+Wendy's,"6823 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,3.6
+Pizza Movers,"6901 Laurel Ave, Takoma Park, MD 20912, USA",restaurant,1,3.2
+Wingstop,"7659 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,2,3.7
+Tonys Villa,"7682 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,3.9
+El Golfo Restaurant,"8739 Flower Ave, Silver Spring, MD 20901, USA",restaurant,2,4.5
+Soupergirl,"314 Carroll St NW, Washington, DC 20012, USA",restaurant,1,4.5
+Chinatown Restaurant,"1163 University Blvd E, Takoma Park, MD 20912, USA",restaurant,2,3.5
+Popeyes Louisiana Kitchen,"6350 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,3.7
+Junction Jamaican Restaurant,"1527 A University Blvd E, Hyattsville, MD 20783, USA",restaurant,NA,4.5
+McDonald's,"6301 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,1,3.6
+Pollo Campero,"1355 University Blvd E, Takoma Park, MD 20912, USA",restaurant,1,3.9
+Evolve Vegan Restaurant,"341 Cedar St NW, Washington, DC 20012, USA",restaurant,2,4.2
+EL TEJANO BAR & GRILL RESTAURANT,"6847 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,3.8
+CONGRESS RESTUARANT AND LOUNGE,"6834 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,NA
+Tijuana Mexican Cafe,"949 University Blvd E, Takoma Park, MD 20912, USA",restaurant,2,3.9
+La Fonda Chiquita Cafe,"6838 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.3
+Campeon Pollo a la Brasa,"902 Merrimac Dr, Takoma Park, MD 20912, USA",restaurant,NA,3.8
+Takoma Park Shopping Center,"6875 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.1
+Sakura Teriyaki,"6843 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,3.8
+Samantha's Restaurant,"631 University Blvd E, Silver Spring, MD 20901, USA",restaurant,2,4.4
+Veronica's Bakery & Cafe,"8501 Piney Branch Rd, Silver Spring, MD 20901, USA",restaurant,NA,4.1
+Moh Moh Licious,"7414 Georgia Ave #1, Washington, DC 20012, USA",restaurant,NA,4.5
+Beijing Delight,"8646 Flower Ave, Takoma Park, MD 20912, USA",restaurant,NA,3.9
+Congress+ Restaurant,"6834 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,NA
+Betty's Gojo Restaurant & Lounge-Hooka Bar,"7616 Georgia Ave NW, Washington, DC 20012, USA",restaurant,NA,4.2
+Tipico Dominicano Food Truck,"7216 New Hampshire Ave, Takoma Park, MD 20912, USA",restaurant,NA,4.3
+Pupuseria La Cabanita,"1511 University Blvd E, Hyattsville, MD 20783, USA",restaurant,NA,4.3
+name,address,type,price_level,rating
+Maggio Roofing,"6476 Sligo Mill Rd, Takoma Park, MD 20912, USA",roofing_contractor,NA,4.3
+Denchfield Roofing Corporation,"6917 New Hampshire Ave, Silver Spring, MD 20912, USA",roofing_contractor,NA,5
+AKJ Roofing Inc.,"138 Ritchie Ave, Silver Spring, MD 20910, USA",roofing_contractor,NA,NA
+Rossi Roofing Contractor Washington DC,"6120 Kansas Ave NW #79, Washington, DC 20011, USA",roofing_contractor,NA,NA
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Takoma Park Elementary School,"7511 Holly Ave, Takoma Park, MD 20912, USA",school,NA,4.1
+Takoma Park Middle School,"7611 Piney Branch Rd, Takoma Park, MD 20912, USA",school,NA,4.3
+Piney Branch Elementary School,"7510 Maple Ave, Takoma Park, MD 20912, USA",school,NA,4.6
+Don Bosco Cristo Rey High School,"1010 Larch Ave, Takoma Park, MD 20912, USA",school,NA,4.4
+Takoma Park Cooperative Nursery School,"8204 Flower Ave, Takoma Park, MD 20912, USA",school,NA,5
+Takoma Academy,"8120 Carroll Ave, Takoma Park, MD 20912, USA",school,NA,3.5
+Carole Highlands Elementary School,"1610 Hannon St, Takoma Park, MD 20912, USA",school,NA,4
+Takoma Montessori School,"7212 Carroll Ave, Takoma Park, MD 20912, USA",school,NA,5
+Takoma Academy Preparatory School,"8300 Carroll Ave, Takoma Park, MD 20912, USA",school,NA,4.4
+name,address,type,price_level,rating
+Family Shoes Inc,"1155 University Blvd E, Takoma Park, MD 20912, USA",shoe_store,NA,4.8
+Gussini Fashion,"6822 New Hampshire Ave, Takoma Park, MD 20912, USA",shoe_store,NA,4.1
+name,address,type,price_level,rating
+Takoma Park Shopping Center,"6875 New Hampshire Ave, Takoma Park, MD 20912, USA",shopping_mall,NA,4.1
+Takoma Park Plaza,"6501 New Hampshire Ave, Takoma Park, MD 20912, USA",shopping_mall,NA,4.2
+Hampshire-Langley Shopping Center,"1175 University Blvd E, Takoma Park, MD 20912, USA",shopping_mall,NA,4
+Shop Rite Shopping Center,"6329 New Hampshire Ave, Takoma Park, MD 20912, USA",shopping_mall,NA,4.1
+Takoma Park Shopping Center,"8750 8736 & 8740, Arliss St, Silver Spring, MD 20901, USA",shopping_mall,NA,4
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+William H.G. Fitzgerald Tennis Stadium,"16th St NW & Kennedy St NW, Washington, DC 20011, USA",stadium,NA,4.2
+Rock Creek Tennis Stadium,"4850 Colorado Ave NW, Washington, DC 20011, USA",stadium,NA,4
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Amano,"7034 Carroll Ave, Takoma Park, MD 20912, USA",store,NA,4.8
+Takoma Park-Silver Spring Food Co-op,"201 Ethan Allen Ave, Takoma Park, MD 20912, USA",store,NA,4.5
+The Covered Market,"7000 Carroll Ave D, Takoma Park, MD 20912, USA",store,NA,4.7
+Fair Day's Play,"7050 Carroll Ave #102, Takoma Park, MD 20912, USA",store,NA,4.5
+Tabletop,"6927 Laurel Ave, Takoma Park, MD 20912, USA",store,NA,4.8
+Old Takoma Ace Hardware,"7001 Carroll Ave, Takoma Park, MD 20912, USA",store,NA,4.5
+House of Musical Traditions,"7010 Westmoreland Ave, Takoma Park, MD 20912, USA",store,2,4.4
+Takoma Park Grocery Store Inc,"7605 Maple Ave, Takoma Park, MD 20912, USA",store,NA,4.3
+Sprint Store,"1141 University Blvd E, Takoma Park, MD 20912, USA",store,2,3.9
+Takoma Bicycle,"7030 Carroll Ave, Takoma Park, MD 20912, USA",store,NA,4.7
+TPSS Co-op,"201 Ethan Allen Ave, Takoma Park, MD 20912, USA",store,NA,4.7
+Advance Auto Parts,"6300 New Hampshire Ave NE, Takoma Park, MD 20912, USA",store,NA,3.8
+Walgreens,"1329 University Blvd E, Takoma Park, MD 20912, USA",store,2,3.5
+The Salvation Army Family Store & Donation Center,"7505 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,4.2
+Sarah Fabrics,"1173 University Blvd E, Takoma Park, MD 20912, USA",store,NA,3.9
+The Big Bad Woof,"6960 Maple St NW, Washington, DC 20012, USA",store,NA,4.7
+Magic Carpet,"6925 Laurel Ave, Takoma Park, MD 20912, USA",store,NA,3
+Shoppers,"6881 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,4.2
+S & A Beads,"235 Carroll St NW, Washington, DC 20012, USA",store,NA,4.3
+U-Haul Moving & Storage of Takoma Park,"6889 New Hampshire Ave, Takoma Park, MD 20912, USA",store,1,3.3
+7-Eleven,"1301 University Blvd E, Takoma Park, MD 20912, USA",store,1,2.1
+T-Mobile,"1305 University Blvd E E, Takoma Park, MD 20912, USA",store,2,4.5
+AutoZone Auto Parts,"6875 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,3.9
+Dollar Plus Store,"6871 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,4.4
+Mega Mart Latino Supermarket,"1101 University Blvd E, Takoma Park, MD 20912, USA",store,NA,4
+Red Apple Farmers Market,"7645 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,4.1
+The Caribbean Market,"7505 New Hampshire Ave, Takoma Park, MD 20912, USA",store,NA,4.2
+Potter Violins,"7711 Eastern Ave NW, Takoma Park, MD 20912, USA",store,NA,4.7

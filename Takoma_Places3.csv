@@ -1,0 +1,276 @@
+name,address,type,price_level,rating
+Dennis Express,"6315 New Hampshire Ave NE, Takoma Park, MD 20912, USA",convenience_store,NA,5
+7-Eleven,"1301 University Blvd E, Takoma Park, MD 20912, USA",convenience_store,1,2.1
+7-Eleven,"218 Cedar St NW, Washington, DC 20012, USA",convenience_store,1,3
+7-Eleven,"900 Merrimac Dr, Takoma Park, MD 20912, USA",convenience_store,1,5
+Sunoco Gas Station,"6360 New Hampshire Ave, Takoma Park, MD 20906, USA",convenience_store,2,3.9
+7-Eleven,"6900 New Hampshire Ave, Takoma Park, MD 20912, USA",convenience_store,NA,4
+Sunoco Gas Station,"6907 New Hampshire Ave, Takoma Park, MD 20912, USA",convenience_store,2,1
+Walgreens,"1329 University Blvd E, Takoma Park, MD 20912, USA",convenience_store,2,3.5
+BP,"7605 Georgia Ave NW, Washington, DC 20012, USA",convenience_store,NA,3.8
+CVS,"110 Carroll St NW, Washington, DC 20012, USA",convenience_store,NA,2.7
+7-Eleven,"7980 Georgia Ave, Silver Spring, MD 20910, USA",convenience_store,1,2.4
+QUISQUEYA 123,"7618 Georgia Ave NW, Washington, DC 20012, USA",convenience_store,NA,NA
+4u Convenient Mart,"8120 Piney Branch Rd, Silver Spring, MD 20910, USA",convenience_store,NA,3
+Fine Beverage Depot,"6333 New Hampshire Ave, Takoma Park, MD 20912, USA",convenience_store,NA,4.6
+Sunoco Gas Station,"8225 Piney Branch Rd, Silver Spring, MD 20910, USA",convenience_store,2,3.8
+BP,"7000 Blair Rd NW, Washington, DC 20012, USA",convenience_store,NA,3.7
+Shell,"8533 Piney Branch Rd, Silver Spring, MD 20901, USA",convenience_store,2,4.1
+CVS,"7939 New Hampshire Ave, Langley Park, MD 20783, USA",convenience_store,NA,2.7
+International Progresso Market,"7719 Georgia Ave NW, Washington, DC 20012, USA",convenience_store,NA,5
+name,address,type,price_level,rating
+District Court for Montgomery County,"8552 2nd Ave, Silver Spring, MD 20910, USA",courthouse,NA,3.2
+name,address,type,price_level,rating
+ELITE DENTAL TAKOMA PARK,"6925 Willow St NW Suite B-106, Washington, DC 20012, USA",dentist,NA,4.6
+Paramount Dental Care,"7610 Carroll Ave STE 480, Takoma Park, MD 20912, USA",dentist,NA,4.9
+COMFY DENTAL,"7505 New Hampshire Ave #305, Takoma Park, MD 20912, USA",dentist,NA,4.3
+nusmiles,"1107 Sligo Creek Pkwy, Takoma Park, MD 20912, USA",dentist,NA,4.3
+"Dr. Cecilia M. Williams-Nelson, DDS","6480 New Hampshire Ave NE, Takoma Park, MD 20912, USA",dentist,NA,3.7
+Langley Park Dental Center,"7676 New Hampshire Ave #400, Takoma Park, MD 20912, USA",dentist,NA,4.3
+"Lawrence H. Siu, DDS PC","7610 Carroll Ave #330, Takoma Park, MD 20912, USA",dentist,NA,5
+Confident Smiles,"7511 New Hampshire Ave, Takoma Park, MD 20912, USA",dentist,NA,4.7
+"Dr. Ying Meng, DMD","7505 New Hampshire Ave #305, Takoma Park, MD 20912, USA",dentist,NA,4.4
+"Sahle S. Araya, BDS,DDS,PA","7676 New Hampshire Ave Suite 321, Takoma Park, MD 20912, USA",dentist,NA,4.6
+Oswald G Warner Jr & Associates,"7000 Carroll Ave # 202, Takoma Park, MD 20912, USA",dentist,NA,3.6
+Pine Dentistry & Braces,"1147 University Blvd E, Takoma Park, MD 20912, USA",dentist,NA,2.9
+Vaughan William E DDS,"7600 Maple Ave, Takoma Park, MD 20912, USA",dentist,NA,3
+Maryland Dental Center,"8012 Flower Ave, Takoma Park, MD 20912, USA",dentist,NA,3
+Lor Srean DDS,"7676 New Hampshire Ave # 224, Takoma Park, MD 20912, USA",dentist,NA,NA
+name,address,type,price_level,rating
+D. Mart Inc. - CapitalKidz,"7673 New Hampshire Ave, Takoma Park, MD 20912, USA",department_store,NA,3.7
+Target,"7828 Georgia Ave NW, Washington, DC 20012, USA",department_store,NA,4.1
+Blanca Gomez,"7412 Georgia Ave NW, Washington, DC 20012, USA",department_store,NA,3.8
+name,address,type,price_level,rating
+CCI Health & Wellness Services,"7676 New Hampshire Ave Suite 220-A, Takoma Park, MD 20912, USA",doctor,NA,2.1
+Takoma Family Health Center,"7676 New Hampshire Avenue Floor 4, Suite #418, Takoma Park, MD 20912, USA",doctor,NA,1.9
+"Nasreen Kango, MD","7701 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,3
+A Plus Medical P.C.,"7505 New Hampshire Ave #314, Takoma Park, MD 20912, USA",doctor,NA,4.1
+Chieu Ton That MD,"7505 New Hampshire Ave # 310, Takoma Park, MD 20912, USA",doctor,NA,4
+Bassey-Akamune Felicia MD,"7676 New Hampshire Ave #420, Takoma Park, MD 20912, USA",doctor,NA,3.3
+"Dr. Tony H. Lawrence, MD","7676 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Adventist Medical Group - Primary Care,"7610 Carroll Ave #280, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Richard S. Squires, MD","7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,5
+Dr. Ndidi R. Agholor,"7505 New Hampshire Ave Suite 302, Takoma Park, MD 20912, USA",doctor,NA,5
+Washington Adventist Hospital: Liang Haiying MD,"7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Anita S. Gangar, DO","7676 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+SMART Medical and Rehab Therapy - Takoma Park,"7676 New Hampshire Ave #312, Takoma Park, MD 20912, USA",doctor,NA,4.6
+"Dr. Tanya C. Lumpkins, MD","7610 Carroll Ave #320, Takoma Park, MD 20912, USA",doctor,NA,3.7
+Chacko a MD,"7610 Carroll Ave # 390, Takoma Park, MD 20912, USA",doctor,NA,NA
+Rainbow Pediatric Clinic,"7676 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,4.4
+Cardiovascular Consultants: Brill David M MD,"7901 Maple Ave, Takoma Park, MD 20912, USA",doctor,NA,5
+Godette Lisa MD,"7610 Carroll Ave # 450, Takoma Park, MD 20912, USA",doctor,NA,4.5
+"Dr. Pablo V. Renart, MD","7610 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,4.8
+Cephas Marcellus R MD,"7610 Carroll Ave # 200, Takoma Park, MD 20912, USA",doctor,NA,2
+Vijayalakshmi Subramanian Md,"7610 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Dr. Tramaine Davis,"7676 New Hampshire Ave #418, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Maria Liza F. Kilby, MD","7676 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Washington Adventist Hospital: Inder Chawla MD,"7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,3.7
+Adventist Medical Group - OBGYN,"7610 Carroll Ave Suite 220, Takoma Park, MD 20912, USA",doctor,NA,5
+Adventist Medical Group - Cardiovascular Surgery,"7901 Maple Ave suite a, Takoma Park, MD 20912, USA",doctor,NA,NA
+Lester Cecelia T MD,"7401 Flower Ave, Takoma Park, MD 20912, USA",doctor,NA,5
+"Kamau K. Amen, ND","7120 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Saeed Kronfli, MD","7610 Carroll Ave #270, Takoma Park, MD 20912, USA",doctor,NA,3
+Ulnacs Medical Care,"7517 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Arshad Sheikh, MD","7610 Carroll Ave STE 220, Takoma Park, MD 20912, USA",doctor,NA,5
+Fayaz A Shawl Md Pa,"7620 Carroll Ave # 200, Takoma Park, MD 20912, USA",doctor,NA,5
+Park Pediatrics,"7610 Carroll Ave # 400, Takoma Park, MD 20912, USA",doctor,NA,3.9
+"Dr. Ali Ghorbani, MD","7610 Carroll Ave #480, Takoma Park, MD 20912, USA",doctor,NA,4.5
+"Aree Saed, DPM","7610 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Washington Adventist Hospital: Stern Lea MD,"7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,3.7
+Maryland Perinatal Associates,"7610 Carroll Ave # 470, Takoma Park, MD 20912, USA",doctor,NA,3
+Sudhakar Kempanna MD,"7610 Carroll Ave # 230, Takoma Park, MD 20912, USA",doctor,NA,4
+Dr. Ajit Shah,"7610 Carroll Ave #370, Takoma Park, MD 20912, USA",doctor,NA,5
+Hemani Dilshad R MD,"7676 New Hampshire Ave #411, Takoma Park, MD 20912, USA",doctor,NA,5
+"Andrew Catanzaro, MD","7901 Maple Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Shobhna Shukla, CRNP","7676 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Capital Medical Services,"7610 Carroll Ave # 320, Takoma Park, MD 20912, USA",doctor,NA,5
+Moore George J DO,"7030 Carroll Ave # 2, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Mohammad H. Chaudhry, MD","7610 Carroll Ave # 300, Takoma Park, MD 20912, USA",doctor,NA,NA
+Adventist Medical Group - Infectious Disease,"7901 Maple Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Cook Tuesday F MD,"7600 Carroll Ave # 270, Takoma Park, MD 20912, USA",doctor,NA,NA
+Olasupo Odunsi MD,"7513 New Hampshire Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Lavanya Sithanandam, M.D.","7610 Carroll Ave #400, Takoma Park, MD 20912, USA",doctor,NA,5
+Washington Adventist Hospital: Hawley Toni Ann MD,"7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Kumar: Kumar Shailendra MD,"7610 Carroll Ave # 340, Takoma Park, MD 20912, USA",doctor,NA,NA
+Lingelbach Jane MD,"7610 Carroll Ave # 380, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Philip J. Marion, MD","7610 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Petro Kathleen,"7610 Carroll Ave # 440, Takoma Park, MD 20912, USA",doctor,NA,5
+Lineage Natural Health,"6930 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Deshay Samuel L MD,"7610 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Ferrer Gorgonia MD,"7610 Carroll Ave # 420, Takoma Park, MD 20912, USA",doctor,NA,5
+Elson Norton A MD,"7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+"Dr. Shahid Shamim, MD","7600 Carroll Ave, Takoma Park, MD 20912, USA",doctor,NA,NA
+Dr. Helene Felman,"7676 New Hampshire Ave Suite 220, Takoma Park, MD 20912, USA",doctor,NA,NA
+name,address,type,price_level,rating
+Sendel Systems,"7600 Georgia Ave NW #204, Washington, DC 20012, USA",electrician,NA,NA
+N J Electrical Services LLC,"6495 New Hampshire Ave #160, Hyattsville, MD 20783, USA",electrician,NA,5
+Onesource Langley Park Electrician,"Adelphi, MD 20783, USA",electrician,NA,NA
+Mega Communications Inc,"701 Dahlia St NW, Washington, DC 20012, USA",electrician,NA,NA
+Certified Electrical Technologies,"973 Selim Rd, Silver Spring, MD 20910, USA",electrician,NA,5
+F.S.F. Electric,"602 Greenlawn Dr, Hyattsville, MD 20783, USA",electrician,NA,NA
+J H Bradby Electrical Contractors,"7325 Georgia Ave NW, Washington, DC 20012, USA",electrician,NA,NA
+JVR electric service LLC,"6495 New Hampshire Ave suite #211, Hyattsville, MD 20783, USA",electrician,NA,NA
+"Johnson Electric Company, Inc.","6230 3rd St NW, Washington, DC 20011, USA",electrician,NA,4
+Main Street Electric,"4710 7th St NE, Washington, DC 20017, USA",electrician,NA,NA
+Murphy Electric Services,"Washington, DC 20011, USA",electrician,NA,NA
+Gaines Electric Co.,"8601 Manchester Rd, Silver Spring, MD 20901, USA",electrician,NA,3
+Hyattsville True North Electrician,"5791 Eastern Ave NE #585, Hyattsville, MD 20782, USA",electrician,NA,NA
+W & W Electric Co,"912 Gist Ave, Silver Spring, MD 20910, USA",electrician,NA,3.6
+Brothers-Electric,"5111 Georgia Ave NW, Washington, DC 20011, USA",electrician,NA,5
+Bell Electric Services,"6207 Balfour Dr, Hyattsville, MD 20782, USA",electrician,NA,5
+Net 6 Electric Inc,"8201 16th St, Silver Spring, MD 20910, USA",electrician,NA,NA
+Georgetown Electric Group,"1339 Fort Stevens Dr NW, Washington, DC 20011, USA",electrician,NA,5
+Specialty Instrument Services,"8615 Springvale Rd, Silver Spring, MD 20910, USA",electrician,NA,NA
+Empower Energy Solutions Corporation,"8720 Georgia Ave # 1011, Silver Spring, MD 20910, USA",electrician,NA,NA
+O & R Electric Co,"1715 Tamarack St NW, Washington, DC 20012, USA",electrician,NA,NA
+Arrow Electric Services Inc,"Hyattsville, MD 20783, USA",electrician,NA,NA
+PLUS ELECTRIC CORPORATION.,"3405 Rosemary Ln, Hyattsville, MD 20782, USA",electrician,NA,5
+Electric String Music Co,"Silver Spring, MD 20910, USA",electrician,NA,NA
+Worch Electric,"2230 Distribution Cir, Silver Spring, MD 20910, USA",electrician,NA,NA
+J & S Electric Co,"9323 Fraser Ave, Silver Spring, MD 20910, USA",electrician,NA,NA
+name,address,type,price_level,rating
+Electronic Center,"7959 New Hampshire Ave, Adelphi, MD 20783, USA",electronics_store,NA,2.8
+Sprint Store,"1141 University Blvd E, Takoma Park, MD 20912, USA",electronics_store,2,3.9
+House of Musical Traditions,"7010 Westmoreland Ave, Takoma Park, MD 20912, USA",electronics_store,2,4.4
+Metro by T-Mobile,"6848 New Hampshire Ave, Takoma Park, MD 20912, USA",electronics_store,1,3.9
+Rent-A-Center,"1173A University Blvd E, Takoma Park, MD 20912, USA",electronics_store,NA,3.4
+T-Mobile,"1305 University Blvd E E, Takoma Park, MD 20912, USA",electronics_store,2,4.5
+Potter Violins,"7711 Eastern Ave NW, Takoma Park, MD 20912, USA",electronics_store,NA,4.7
+Lebron's Car Audio & Security,"6327 B New Hampshire Ave, Takoma Park, MD 20912, USA",electronics_store,NA,4.6
+Linear Tube Audio,"7316 Carroll Ave, Takoma Park, MD 20912, USA",electronics_store,NA,4.7
+Zodiac Express,"7988 New Hampshire Ave, Hyattsville, MD 20783, USA",electronics_store,NA,4.4
+Walgreens Photo,"1329 University Blvd E, Takoma Park, MD 20912, USA",electronics_store,2,4.8
+R R Electronics,"1401 University Blvd E, Hyattsville, MD 20783, USA",electronics_store,NA,NA
+Tonal Park,"7014-C Westmoreland Ave, Takoma Park, MD 20912, USA",electronics_store,NA,4.8
+Forced Detour Films LLC,"8303 Flower Ave, Takoma Park, MD 20912, USA",electronics_store,NA,NA
+Asparagus Media Inc,"6411 Orchard Ave # 99, Takoma Park, MD 20912, USA",electronics_store,NA,4.9
+Mr Phone Solutions,"1535 University Blvd E, Hyattsville, MD 20783, USA",electronics_store,NA,3.3
+P & P Wireless Communications,"8703 Flower Ave, Silver Spring, MD 20901, USA",electronics_store,NA,3.4
+Informax Services Inc,"1360 Holton Ln, Takoma Park, MD 20912, USA",electronics_store,NA,4.8
+School of Musical Traditions,"7010 Westmoreland Ave, Takoma Park, MD 20912, USA",electronics_store,NA,5
+James Colwell,"7209 Cedar Ave, Takoma Park, MD 20912, USA",electronics_store,NA,NA
+CVS Photo,"110 Carroll St NW, Washington, DC 20012, USA",electronics_store,NA,NA
+CVS Photo,"7939 New Hampshire Ave, Adelphi, MD 20783, USA",electronics_store,NA,NA
+Point of View Studio,"7002 Carroll Ave, Takoma Park, MD 20912, USA",electronics_store,NA,NA
+Community Music Inc,"7008 Westmoreland Ave, Takoma Park, MD 20912, USA",electronics_store,NA,NA
+WAR Studios,"8515 Piney Branch Rd, Takoma Park, MD 20901, USA",electronics_store,NA,5
+The Winning Store,"7900 Georgia Ave, Silver Spring, MD 20910, USA",electronics_store,NA,5
+P C,"7035 Blair Rd NW, Washington, DC 20012, USA",electronics_store,NA,NA
+Target,"7828 Georgia Ave NW, Washington, DC 20012, USA",electronics_store,NA,4.1
+BEST WIRELESS,"7900 Georgia Ave, Silver Spring, MD 20910, USA",electronics_store,NA,5
+"Takoma Media; Takoma Park Media Group Inc,","8215 Fenton St, Silver Spring, MD 20910, USA",electronics_store,NA,5
+TR Music & Voice Lessons,"802 Philadelphia Ave, Silver Spring, MD 20910, USA",electronics_store,NA,5
+Metro by T-Mobile,"District 16, 8006 New Hampshire Ave, Hyattsville, MD 20783, USA",electronics_store,1,4
+Kellert Music Studios,"761 Silver Spring Ave, Silver Spring, MD 20910, USA",electronics_store,NA,NA
+Metro by T-Mobile,"1401 University Blvd E Unit K36, Hyattsville, MD 20783, USA",electronics_store,1,3.6
+Walmart Photo Center,"310 Riggs Rd NE, Washington, DC 20011, USA",electronics_store,1,NA
+Best Pawn,"8217 Georgia Ave, Silver Spring, MD 20910, USA",electronics_store,NA,4.6
+LIPINSKI,"1111 E W Hwy, Silver Spring, MD 20910, USA",electronics_store,NA,NA
+Bump 'n Grind,"1200 E W Hwy, Silver Spring, MD 20910, USA",electronics_store,1,4.4
+SAMSUNG C&T AUTOMATION,"1515 Grace Church Rd, Silver Spring, MD 20910, USA",electronics_store,NA,5
+Smart TV Installers LLC,"8314 12th Ave, Silver Spring, MD 20903, USA",electronics_store,NA,NA
+Electroworld,"213 Kennedy St NW, Washington, DC 20011, USA",electronics_store,NA,4.3
+Sure-Fit Security,"8213 Fenton St, Silver Spring, MD 20910, USA",electronics_store,NA,4.1
+my dream wireless solutions,"8115 Fenton St #200, Silver Spring, MD 20910, USA",electronics_store,NA,NA
+Metro by T-Mobile,"District 16, 1602 MD-193 Suite E, Hyattsville, MD 20783, USA",electronics_store,1,3
+Video 95,"1835 University Blvd E #120, Hyattsville, MD 20783, USA",electronics_store,NA,4.2
+Sprint Store,"8501 Fenton St, Silver Spring, MD 20910, USA",electronics_store,2,3
+Lions Record,"8115 Fenton St #308A, Silver Spring, MD 20910, USA",electronics_store,NA,NA
+Metro by T-Mobile,"1835 MD-193 Ste 112, Hyattsville, MD 20783, USA",electronics_store,1,3.3
+Walmart Supercenter,"310 Riggs Rd NE, Washington, DC 20011, USA",electronics_store,1,4.1
+Metro by T-Mobile,"2010 MD-193, Adelphi, MD 20783, USA",electronics_store,1,4.1
+CVS Photo,"825 Wayne Ave, Silver Spring, MD 20910, USA",electronics_store,NA,NA
+Adelphi Records Inc,"Silver Spring, MD 20907, USA",electronics_store,NA,NA
+Record Exchange Silver Spring,"8642 Colesville Rd, Silver Spring, MD 20910, USA",electronics_store,NA,4.4
+Metro by T-Mobile,"636 University Blvd E, Silver Spring, MD 20901, USA",electronics_store,1,3.8
+B&B Music Lessons,"609 Nicholson St NE, Washington, DC 20011, USA",electronics_store,NA,4.9
+"Chikita Wireless, LLC","9101 Riggs Rd, Adelphi, MD 20783, USA",electronics_store,NA,5
+T-Mobile,"8668 Colesville Rd, Silver Spring, MD 20910, USA",electronics_store,2,4.1
+SMART TV INSTALLERS LLC,"8711 Georgia Ave #606, Silver Spring, MD 20910, USA",electronics_store,NA,4.7
+T-Mobile,"5210 South Dakota Ave NE, Washington, DC 20011, USA",electronics_store,NA,4.8
+COMPU System Services,"7411 Riggs Rd #212, Chillum, MD 20782, USA",electronics_store,NA,NA
+name,address,type,price_level,rating
+Consulate-General of El Salvador,"926 Philadelphia Ave, Silver Spring, MD 20910, USA",embassy,NA,3.2
+U.S. VISA TO GREENCARD,"914 Silver Spring Ave #106, Silver Spring, MD 20910, USA",embassy,NA,NA
+Nigerian Community Business,"6495 New Hampshire Ave NE, Hyattsville, MD 20783, USA",embassy,NA,NA
+Embassy of Libya,"1460 Dahlia St NW, Washington, DC 20012, USA",embassy,NA,3
+Consulate of Guatemala,"8124 Georgia Ave, Silver Spring, MD 20910, USA",embassy,NA,2.8
+Embassy of Botswana,"1600 Underwood St NW, Washington, DC 20012, USA",embassy,NA,NA
+Embassy of Gambia,"5630 16th St NW, Washington, DC 20011, USA",embassy,NA,4.2
+Thai Air Attache,"5600 16th St NW, Washington, DC 20011, USA",embassy,NA,NA
+name,address,type,price_level,rating
+Takoma Park Volunteer Fire Department,"7201 Carroll Ave, Takoma Park, MD 20912, USA",fire_station,NA,5
+name,address,type,price_level,rating
+Park Florist,"6921 Laurel Ave, Takoma Park, MD 20912, USA",florist,NA,4.9
+name,address,type,price_level,rating
+Torchinsky Hebrew Funeral Home,"254 Carroll St NW, Washington, DC 20012, USA",funeral_home,NA,3
+"McGuire Funeral Services, Inc.","7400 Georgia Ave NW, Washington, DC 20012, USA",funeral_home,NA,4.5
+Torchinsky Hebrew Funeral Home,"Silver Spring, MD 20910, USA",funeral_home,NA,5
+Santa Cruz Funeral Latinos Services Inc,"600 Kennedy St NW, Washington, DC 20011, USA",funeral_home,NA,1
+Johnson & Jenkins,"716 Kennedy St NW, Washington, DC 20011, USA",funeral_home,NA,4.6
+Roger J. Mason Funeral Service,"908 Kennedy St NW, Washington, DC 20011, USA",funeral_home,NA,NA
+Snead Funeral Home & Cremation,"5732 Georgia Ave NW, Washington, DC 20011, USA",funeral_home,NA,3.8
+Magnolia Funeral Chapel,"4804 Georgia Ave NW, Washington, DC 20011, USA",funeral_home,NA,NA
+"Latney's Funeral Home,Inc","5732 Georgia Ave NW, Washington, DC 20011, USA",funeral_home,NA,5
+Hunt Funeral Home,"908 Kennedy St NW, Washington, DC 20011, USA",funeral_home,NA,2.5
+Genesis Cremation & Funeral,"5732 Georgia Ave NW, Washington, DC 20011, USA",funeral_home,NA,5
+Universal Mortuary Service Inc,"411 Kennedy St NW, Washington, DC 20011, USA",funeral_home,NA,5
+Johnson Casket Co,"4908 Georgia Ave NW, Washington, DC 20011, USA",funeral_home,NA,5
+name,address,type,price_level,rating
+Overstock Furniture,"8040 New Hampshire Ave, Langley Park, MD 20783, USA",furniture_store,NA,3.2
+Dima Furniture,"7681 New Hampshire Ave, Takoma Park, MD 20912, USA",furniture_store,NA,4.9
+Best Buy Furniture,"6824 New Hampshire Ave #B, Takoma Park, MD 20912, USA",furniture_store,NA,2.7
+Value Furnitures and Rugs,"6854 New Hampshire Ave, Takoma Park, MD 20912, USA",furniture_store,NA,1
+Rent-A-Center,"1173A University Blvd E, Takoma Park, MD 20912, USA",furniture_store,NA,3.4
+Mattress Mike,"1167 University Blvd E, Takoma Park, MD 20912, USA",furniture_store,NA,3.9
+Magic Carpet,"6925 Laurel Ave, Takoma Park, MD 20912, USA",furniture_store,NA,3
+Home Furniture and More,"7919 New Hampshire Ave, Adelphi, MD 20783, USA",furniture_store,NA,3.9
+Regency Furniture,"8003 New Hampshire Ave, Adelphi, MD 20783, USA",furniture_store,NA,3.1
+Raymond Burkett Inc,"715 Kennebec Ave, Takoma Park, MD 20912, USA",furniture_store,NA,5
+City Furniture,"International Plaza and Bay Street, # G3a, La Union Mall, 1401 University Blvd E, Hyattsville, MD 20783, USA",furniture_store,NA,5
+Atlantic Vinyl Specialist,"7002 Westmoreland Ave, Takoma Park, MD 20912, USA",furniture_store,NA,NA
+Sweet Home Furniture,"1535 University Blvd E, Hyattsville, MD 20787, USA",furniture_store,NA,2
+Price Busters Discount Furniture,"2101 University Blvd E, Chillum, MD 20782, USA",furniture_store,NA,4.7
+Casa Furniture - Silver Spring,"8701 Flower Ave, Silver Spring, MD 20901, USA",furniture_store,NA,4.4
+Royal Prestige,"7676 New Hampshire Ave suite 118, Takoma Park, MD 20912, USA",furniture_store,NA,5
+Family Furniture Discount Center,"7919 New Hampshire Ave, Langley Park, MD 20783, USA",furniture_store,NA,4.3
+Dollar Tree,"1535 University Blvd E #F, Hyattsville, MD 20783, USA",furniture_store,1,3.3
+Target,"7828 Georgia Ave NW, Washington, DC 20012, USA",furniture_store,NA,4.1
+D'Carlo Upholstery,"Silver Spring, MD 20910, USA",furniture_store,NA,NA
+Fes LLC Furniture Office,"6400 Georgia Ave NW # 5, Washington, DC 20012, USA",furniture_store,NA,NA
+Carolina Furniture,"Washington, DC 20011, USA",furniture_store,NA,5
+North Carolina Furniture,"5720 Georgia Ave NW, Washington, DC 20011, USA",furniture_store,NA,3.9
+Standard Office Supply,"35 Sheridan St NW, Washington, DC 20011, USA",furniture_store,NA,3.4
+R L Carpet Installation Co,"8701 Arliss St # 201, Silver Spring, MD 20901, USA",furniture_store,NA,5
+Mirror Image Builders Kitchen and Bath Showroom,"307 Kennedy St NW ,, Washington, DC 20011, USA",furniture_store,NA,NA
+Royal Prestige,"7411 Riggs Rd Suite #316, Hyattsville, MD 20783, USA",furniture_store,NA,3.3
+Georgia Avenue Thrift Store,"6101 Georgia Ave NW, Washington, DC 20011, USA",furniture_store,NA,4
+Mattress Firm Downtown Silver Spring,"8701 Colesville Rd, Silver Spring, MD 20910, USA",furniture_store,1,5
+Tailoring & Alteration Center,"8305 Fenton St, Silver Spring, MD 20910, USA",furniture_store,NA,4.4
+Royal Prestige,"818 Roeder Rd, Silver Spring, MD 20910, USA",furniture_store,NA,NA
+Modern Mobler -- Danish & American Mid Century Modern Furnishings,"7313 Georgia Ave NW, Washington, DC 20012, USA",furniture_store,NA,4.2
+name,address,type,price_level,rating
+Sunoco Gas Station,"6907 New Hampshire Ave, Takoma Park, MD 20912, USA",gas_station,2,1
+Red Top,"949 East-West Hwy, Takoma Park, MD 20912, USA",gas_station,NA,4
+Sunoco Gas Station,"6360 New Hampshire Ave, Takoma Park, MD 20906, USA",gas_station,2,3.9
+Marathon,"6400 New Hampshire Ave, Takoma Park, MD 20912, USA",gas_station,NA,3.3
+Falcon Fuel,"925 University Blvd E, Takoma Park, MD 20912, USA",gas_station,NA,2.5
+East-West Hwy Valero,"920 East-West Hwy, Takoma Park, MD 20912, USA",gas_station,NA,2.4
+7-Eleven 38133,"6900 New Hampshire Ave, Takoma Park, MD 20912, USA",gas_station,NA,NA
+BP,"7605 Georgia Ave NW, Washington, DC 20012, USA",gas_station,NA,3.8
+name,address,type,price_level,rating
+MAD Fitness,"7322 Carroll Ave, Takoma Park, MD 20912, USA",gym,NA,5
+Capital MMA & Elite Fitness - Team Takoma,"6836 New Hampshire Ave, Takoma Park, MD 20912, USA",gym,NA,4.8
+Falcon Hall,"7600 Takoma Ave, Takoma Park, MD 20912, USA",gym,NA,4.9
+Capital Bikeshare Takoma Park Rec Center,"7333 New Hampshire Ave, Takoma Park, MD 20912, USA",gym,NA,NA
+Spark Fitnes,"409 Butternut St NW, Washington, DC 20012, USA",gym,NA,3.8
+Capital Bikeshare New Hamphire & Kirklynn Ave,"7631-7669 Kirklynn Ave, Takoma Park, MD 20912, USA",gym,NA,1
+Bikram Yoga Takoma Park,"7324 Carroll Ave, Takoma Park, MD 20912, USA",gym,NA,4.5
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Old Takoma Ace Hardware,"7001 Carroll Ave, Takoma Park, MD 20912, USA",hardware_store,NA,4.5
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+JK Mart,"7603 New Hampshire Ave, Takoma Park, MD 20912, USA",home_goods_store,NA,3
+Modern Mobler - Vintage Home Furnishings,"7313 Georgia Ave NW, Washington, DC 20012, USA",home_goods_store,NA,NA

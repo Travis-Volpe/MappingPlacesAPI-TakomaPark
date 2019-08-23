@@ -1,0 +1,166 @@
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Hospital Helipad,"7600 Carroll Ave, Takoma Park, MD 20912, USA",airport,NA,NA
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+DC Arts Studios,"6925 Willow St NW #104, Washington, DC 20012, USA",art_gallery,NA,5
+Art Spring,"7002 Carroll Ave, Takoma Park, MD 20912, USA",art_gallery,NA,5
+Jake Muirhead,"1101 Merwood Dr, Takoma Park, MD 20912, USA",art_gallery,NA,NA
+Artful Framing & Gallery,"6960 Maple St NW B, Washington, DC 20012, USA",art_gallery,NA,5
+swarovski scenes,"201 Aspen St NW, Washington, DC 20011, USA",art_gallery,NA,NA
+Dominie Nash,"6925 Willow St NW, Washington, DC 20012, USA",art_gallery,NA,NA
+Podrasky Studios,"112 Rittenhouse St NE, Washington, DC 20011, USA",art_gallery,NA,NA
+Art Exchange,"1835 University Blvd E #118, Hyattsville, MD 20783, USA",art_gallery,NA,NA
+Zenith Gallery,"1429 Iris St NW, Washington, DC 20012, USA",art_gallery,NA,4.8
+name,address,type,price_level,rating
+Wells Fargo Bank ATM,"1175 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,NA
+Bank of America ATM,"6950 Carroll Ave, Takoma Park, MD 20912, USA",atm,NA,4
+Capital One ATM,"1181 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,NA
+Bitcoin ATM,"6907 New Hampshire Ave #5818, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM (Suntrust Bank),"6931 Laurel Ave, Takoma Park, MD 20912, USA",atm,NA,4
+Citibank,"1301 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM (South Dakota Exxon),"6360 New Hampshire Ave NE, Takoma Park, MD 20912, USA",atm,NA,NA
+SECU ATM,"7683-7699 Flower Ave, Takoma Park, MD 20912, USA",atm,NA,4.3
+ATM (Washingonoin Express),"920 East-West Hwy, Takoma Park, MD 20912, USA",atm,NA,NA
+Cardtronics ATM,"6907 New Hampshire Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM Express,"201 Ethan Allen Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM (Capital One Bank),"1181 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,4.5
+SECU ATM,"7600 Flower Ave Standalone, Takoma Park, MD 20912, USA",atm,NA,NA
+Washingonoin Express,"920 East-West Hwy, Takoma Park, MD 20912, USA",atm,NA,NA
+Wells Fargo ATM,"235 Carroll St NW, Washington, DC 20012, USA",atm,NA,1
+ATM,"8000 Flower Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+Cardtronics ATM,"1329 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM Express,"1355 Holton Ln, Takoma Park, MD 20912, USA",atm,NA,5
+Cardtronics ATM,"900 Merrimac Dr, Takoma Park, MD 20912, USA",atm,NA,NA
+Cardtronics ATM,"8630 Flower Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+Citibank ATM,"7633 New Hampshire Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM (Bank of America),"7950 New Hampshire Ave # A, Adelphi, MD 20783, USA",atm,NA,5
+Citibank ATM,"218 Cedar St NW, Washington, DC 20012, USA",atm,NA,NA
+Citizens Bank,"6907 New Hampshire Ave, Takoma Park, MD 20912, USA",atm,NA,2
+Wells Fargo ATM,"7992 New Hampshire Ave, Hyattsville, MD 20783, USA",atm,NA,NA
+SunTrust,"6931 Laurel Ave, Takoma Park, MD 20912, USA",atm,NA,1
+Capital One Bank,"1181 University Blvd E, Takoma Park, MD 20912, USA",atm,NA,2.9
+ATM,"7812 Georgia Ave NW # A, Washington, DC 20012, USA",atm,NA,5
+Capital One ATM,"8740 Arliss St, Silver Spring, MD 20901, USA",atm,NA,5
+Cardtronics ATM,"8750 Arliss St, Silver Spring, MD 20901, USA",atm,NA,3
+Cardtronics ATM,"621 Sligo Ave, Silver Spring, MD 20910, USA",atm,NA,NA
+ATM (Piney Branch Shell),"8533 Piney Branch Rd, Silver Spring, MD 20901, USA",atm,NA,NA
+Sunoco Gas Station,"6907 New Hampshire Ave, Takoma Park, MD 20912, USA",atm,2,1
+Wells Fargo ATM,"8505 Piney Branch Rd, Silver Spring, MD 20901, USA",atm,NA,1
+ATM (Walter Reed Exxon),"7601 Georgia Ave NW, Washington, DC 20012, USA",atm,NA,NA
+ATM (Bank of America),"6495 New Hampshire Ave NE, Adelphi, MD 20783, USA",atm,NA,5
+PNC Bank ATM,"7601 Georgia Ave NW, Washington, DC 20012, USA",atm,NA,NA
+ATM,"730 Sligo Ave, Silver Spring, MD 20910, USA",atm,NA,NA
+ATM Express,"6900 4th St NW, Washington, DC 20012, USA",atm,NA,NA
+Orchard Avenue Office,"6411 Orchard Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM (Tiger Mart),"2000 University Blvd E, Adelphi, MD 20783, USA",atm,NA,NA
+Cardtronics ATM,"7939 New Hampshire Ave, Adelphi, MD 20783, USA",atm,NA,NA
+Citibank ATM,"25 Peabody St NW, Washington, DC 20011, USA",atm,NA,NA
+ATM Express,"7401 Georgia Ave NW, Washington, DC 20012, USA",atm,NA,NA
+Citibank Atm,"8101 Fenton St, Silver Spring, MD 20910, USA",atm,NA,1
+Provident Bank,"6881 New Hampshire Ave, Takoma Park, MD 20912, USA",atm,NA,NA
+ATM Express,"8107 Fenton St, Silver Spring, MD 20910, USA",atm,NA,5
+Cardtronics ATM,"905 Sligo Ave, Silver Spring, MD 20910, USA",atm,NA,NA
+Citibank ATM,"650 University Blvd E, Silver Spring, MD 20901, USA",atm,NA,5
+ATM Express,"8301 Fenton St, Silver Spring, MD 20910, USA",atm,NA,NA
+SunTrust ATM,"909 Thayer Ave, Silver Spring, MD 20910, USA",atm,NA,4
+National ATM Wholesale,"816 Easlex St., Silver Spring, MD 21075, Silver Spring, MD 20910, USA",atm,NA,NA
+PNC Bank,"7601 Georgia Ave NW, Washington, DC 20012, USA",atm,NA,2.5
+ATM Express,"7350 Georgia Ave NW, Washington, DC 20012, USA",atm,NA,NA
+SunTrust ATM,"6500 Piney Branch Rd NW, Washington, DC 20012, USA",atm,NA,NA
+Capital One ATM,"8315 Georgia Ave, Silver Spring, MD 20910, USA",atm,NA,5
+ATM Express,"7905 Georgia Ave NW, Washington, DC 20307, USA",atm,NA,NA
+ATM Express,"5420 New Hampshire Ave NE, Washington, DC 20011, USA",atm,NA,NA
+Bank of America ATM,"916 Ellsworth Dr, Silver Spring, MD 20910, USA",atm,NA,3.7
+ATM (South Dakota Exxon),"5501 South Dakota Ave NE, Washington, DC 20011, USA",atm,NA,3
+name,address,type,price_level,rating
+Spring Mill Bread Company,"7300 Carroll Ave, Takoma Park, MD 20912, USA",bakery,2,4.5
+Veronica's Bakery & Cafe,"8501 Piney Branch Rd, Silver Spring, MD 20901, USA",bakery,NA,4.1
+Dunkin',"6851 New Hampshire Ave, Takoma Park, MD 20912, USA",bakery,1,3.7
+name,address,type,price_level,rating
+Wells Fargo Bank,"1175 University Blvd E, Takoma Park, MD 20912, USA",bank,NA,3.5
+Capital One Bank,"1181 University Blvd E, Takoma Park, MD 20912, USA",bank,NA,2.9
+Bank of America Financial Center,"6950 Carroll Ave, Takoma Park, MD 20912, USA",bank,NA,2.2
+SunTrust,"6931 Laurel Ave, Takoma Park, MD 20912, USA",bank,NA,1
+Citibank,"7633 New Hampshire Ave, Takoma Park, MD 20912, USA",bank,NA,3
+Bank of America Financial Center,"7950 New Hampshire Ave Suite #A, New Hampshire Ave, Adelphi, MD 20783, USA",bank,NA,1.9
+Provident Bank,"6881 New Hampshire Ave, Takoma Park, MD 20912, USA",bank,NA,NA
+Orchard Avenue Office,"6411 Orchard Ave, Takoma Park, MD 20912, USA",bank,NA,NA
+name,address,type,price_level,rating
+Republic,"6939 Laurel Ave, Takoma Park, MD 20912, USA",bar,2,4.4
+Roscoe's Pizzeria,"7040 Carroll Ave, Takoma Park, MD 20912, USA",bar,2,4.4
+Busboys and Poets,"235 Carroll St NW, Washington, DC 20012, USA",bar,2,4.4
+Great Shoals Takoma Park,"7050 Carroll Ave, Takoma Park, MD 20912, USA",bar,NA,4
+Champion Kitchen,"7730 Georgia Ave NW, Washington, DC 20012, USA",bar,NA,4.2
+Olive Lounge & Grill,"7006 Carroll Ave, Takoma Park, MD 20912, USA",bar,1,4.7
+OMEGA BAR & LOUNGE,"1401 University Blvd E, Hyattsville, MD 20783, USA",bar,NA,3.8
+Tropicana Majahual Restaurant,"8638 Flower Ave, Takoma Park, MD 20912, USA",bar,1,4.1
+Takoma Station,"6914 4th St NW, Washington, DC 20012, USA",bar,2,4.4
+name,address,type,price_level,rating
+Salon Jam,"7054 Carroll Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,4.7
+Julie's Dominican Hair Salon,"7489 New Hampshire Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,4.6
+Emma Hair Salon & Barber Shop,"1333 Holton Ln, Takoma Park, MD 20912, USA",beauty_salon,NA,4.3
+Mont Horeb Hair Braiding and Salon,"6859 New Hampshire Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,4.1
+Park Ritchie Beauty Salon,"7600 Maple Ave # 1, Takoma Park, MD 20912, USA",beauty_salon,NA,4.4
+Ritz Unisex Hair Salon,"8205 Carroll Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,5
+Claudette's Braiding Gallery,"7505 New Hampshire Ave # 210, Takoma Park, MD 20912, USA",beauty_salon,NA,4
+Salon 2000,"7310 Carroll Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,3.7
+Nouveau Hair,"6337 New Hampshire Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,4.7
+Barbershop in Silver Spring Takoma Park Maryland,"6840 New Hampshire Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,4.9
+Sheila's Unisex,"7655 New Hampshire Ave, Takoma Park, MD 20912, USA",beauty_salon,NA,5
+name,address,type,price_level,rating
+Takoma Bicycle,"7030 Carroll Ave, Takoma Park, MD 20912, USA",bicycle_store,NA,4.7
+name,address,type,price_level,rating
+MC Books & More,"Takoma Park, MD 20912, USA",book_store,NA,4.7
+Rincon Cristiano,"7676 New Hampshire Ave #108, Takoma Park, MD 20912, USA",book_store,NA,4.6
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Takoma Langley Crossroads Transit Center & Bus Bay D,"Langley Park, MD 20783, USA",bus_station,NA,NA
+Takoma Station Bay B,"Washington, DC 20012, USA",bus_station,NA,5
+Takoma Station & Bay A,"Washington, DC 20012, USA",bus_station,NA,NA
+Takoma Station & Bus Bay F,"Washington, DC 20012, USA",bus_station,NA,NA
+Takoma Station & Bay J,"Washington, DC 20012, USA",bus_station,NA,NA
+Takoma Station & Bay H,"Washington, DC 20012, USA",bus_station,NA,NA
+"Takoma Station & Bay G, H, J","Washington, DC 20012, USA",bus_station,NA,5
+University Blvd & Merrimac Dr,"Takoma Park, MD 20912, USA",bus_station,NA,NA
+name,address,type,price_level,rating
+Takoma Beverage Company,"6917 Laurel Ave, Takoma Park, MD 20912, USA",cafe,2,4.6
+Starbucks,"7690 New Hampshire Avenue Space #4, Takoma Park, MD 20912, USA",cafe,2,3.5
+name,address,type,price_level,rating
+Rock Creek Park Group Picnic Areas,"3545 Williamsburg Ln NW, Washington, DC 20008, USA",campground,NA,4.6
+name,address,type,price_level,rating
+Langley Auto Sales,"6860 New Hampshire Ave, Takoma Park, MD 20912, USA",car_dealer,NA,4.4
+Union Auto Sales - Used Cars - Takoma Park MD Dealer,"1369 Holton Ln, Takoma Park, MD 20912, USA",car_dealer,NA,3
+Takoma Academy Auto Sales,"8120 Carroll Ave, Takoma Park, MD 20912, USA",car_dealer,NA,5
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Takoma Auto Clinic Inc,"7221 Carroll Ave, Takoma Park, MD 20912, USA",car_repair,NA,4.6
+R S Automotive Inc,"7224 Carroll Ave, Takoma Park, MD 20912, USA",car_repair,NA,4.5
+RT Automotive of Takoma Park,"6400 New Hampshire Ave NE, Takoma Park, MD 20912, USA",car_repair,NA,4.6
+Old Town Auto Services Center,"7060 Carroll Ave, Takoma Park, MD 20912, USA",car_repair,NA,4.6
+Robern's Automotive Service Center,"6323 New Hampshire Ave, Takoma Park, MD 20912, USA",car_repair,NA,5
+Healey Surgeons,"7211 Carroll Ave, Takoma Park, MD 20912, USA",car_repair,NA,5
+United Globe Auto Body LLC,"8640 Flower Ave, Takoma Park, MD 20912, USA",car_repair,NA,4
+Lebron's Car Audio & Security,"6327 B New Hampshire Ave, Takoma Park, MD 20912, USA",car_repair,NA,4.6
+Jiffy Lube,"6510 New Hampshire Ave, Takoma Park, MD 20912, USA",car_repair,NA,4.1
+name,address,type,price_level,rating
+New Hampshire Car Wash,"7551 New Hampshire Ave, Takoma Park, MD 20912, USA",car_wash,NA,3.7
+Fly Professional Detailing Inc.,"6323 New Hampshire Ave, Takoma Park, MD 20912, USA",car_wash,NA,4.1
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+Cecil-Davis Family Cemetery,"7911 Greenwood Ave, Takoma Park, MD 20912, USA",cemetery,NA,NA
+Battleground National Cemetery,"6625 Georgia Ave NW, Washington, DC 20012, USA",cemetery,NA,4.6
+Rock Creek Cemetery,"201 Allison St NW, Washington, DC 20011, USA",cemetery,NA,4.9
+Soldiers Home Cemetery,"Washington, DC 20011, USA",cemetery,NA,4.3
+George Washington Cemetery,"9500 Riggs Rd, Adelphi, MD 20783, USA",cemetery,NA,3.3
+Orthodox Christian Cemetery,"38°56'51. 77°00'55., 1405 1/2 5th St NW, Washington, DC 20001, USA",cemetery,NA,NA
+St. Paul's Rock Creek Church,"201 Allison St NW, Washington, DC 20011, USA",cemetery,NA,3.4
+Soldiers Home Natl Cemetery,"21 Harewood Rd NW, Washington, DC 20011, USA",cemetery,NA,NA
+Grace Episcopal Cemetery,"1607 Grace Church Rd, Silver Spring, MD 20910, USA",cemetery,NA,NA
+Grace Episcopal Church Cemetery,"Silver Spring, MD 20910, USA",cemetery,NA,NA
+George Washington Cemetery,"9500 Riggs Rd, Adelphi, MD 20783, USA",cemetery,NA,NA
+Our Lady Queen of Poland Cemetery,"9700 Rosensteel Ave, Silver Spring, MD 20910, USA",cemetery,NA,NA
+name,address,type,price_level,rating
+Takoma Park Seventh Day Adventist Church,"6951 Carroll Ave, Takoma Park, MD 20912, USA",church,NA,4.7
+Takoma Park Presbyterian Church,"310 Tulip Ave, Takoma Park, MD 20912, USA",church,NA,4

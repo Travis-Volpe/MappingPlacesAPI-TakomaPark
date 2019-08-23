@@ -1,0 +1,64 @@
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating
+name,address,type,price_level,rating,user_ratings_total
+Republic,"6939 Laurel Ave, Takoma Park, MD 20912, USA",NA,2,4.4,NA
+Mark's Kitchen,"7006 Carroll Ave, Takoma Park, MD 20912, USA",NA,1,4.5,NA
+Kin Da,"6923 Laurel Ave, Takoma Park, MD 20912, USA",NA,2,4.5,NA
+Roscoe's Pizzeria,"7040 Carroll Ave, Takoma Park, MD 20912, USA",NA,2,4.4,NA
+Busboys and Poets,"235 Carroll St NW, Washington, DC 20012, USA",NA,2,4.4,NA
+Seoul Food D.C.,"7302 Carroll Ave, Takoma Park, MD 20912, USA",NA,1,4.7,NA
+Cielo Rojo Restaurant,"7056 Carroll Ave, Takoma Park, MD 20912, USA",NA,2,4.7,NA
+Peter's Sub Shop,"7603 Maple Ave, Takoma Park, MD 20912, USA",NA,1,4.4,NA
+Woodlands Vegetarian Restaurant,"8046 New Hampshire Ave, Adelphi, MD 20783, USA",NA,2,4.2,NA
+Tiffin,"1341 University Blvd E, Takoma Park, MD 20912, USA",NA,2,4.2,NA
+Tropicana Majahual Restaurant,"8638 Flower Ave, Takoma Park, MD 20912, USA",NA,1,4.1,NA
+El Paraiso Restaurant,"6515 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,4.2,NA
+Caribbean Sea,"6869 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,3,4.3,NA
+IHOP,"7405 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,3.9,NA
+La Casita Pupuseria & Market,"8214 Piney Branch Rd, Silver Spring, MD 20910, USA",NA,1,4.4,NA
+Udupi Palace,"1341 University Blvd E, Takoma Park, MD 20912, USA",NA,1,4,NA
+Los Pollos Restaurant,"6842 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,4.1,NA
+No.1 China,"7643 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,4.4,NA
+Tom's Chinese Kitchen,"6853 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,3.8,NA
+Caribbean Palace Restaurant,"7680 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,2,3.8,NA
+Sardi's Pollo A La Brasa - Langley Park,"1159 University Blvd E, Takoma Park, MD 20912, USA",NA,1,4.2,NA
+Spicy Delight,"308 Carroll St NW, Washington, DC 20012, USA",NA,2,4.7,NA
+Mansa Kunda Restaurant,"8000 Flower Ave, Takoma Park, MD 20912, USA",NA,NA,4.7,NA
+Mid Atlantic Seafood,"6500 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,4.4,NA
+Taco Bell,"1300 Holton Ln, Takoma Park, MD 20912, USA",NA,1,4.1,NA
+Little Caesars Pizza,"1137-A University Blvd E, Takoma Park, MD 20912, USA",NA,1,4.2,NA
+Wingstop,"7659 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,2,3.7,NA
+El Marinero,"1319 University Blvd E, Takoma Park, MD 20912, USA",NA,NA,3.6,NA
+Wendy's,"6823 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,3.6,NA
+Caribbean Garden,"6331 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,3.7,NA
+Pizza Movers,"6901 Laurel Ave, Takoma Park, MD 20912, USA",NA,1,3.2,NA
+Walia Restaurant,"6846 New Hampshire Ave, Silver Spring, MD 20912, USA",NA,NA,4.2,NA
+Pupuseria El Comalito,"1167 University Blvd E, Takoma Park, MD 20912, USA",NA,2,3.6,NA
+Tonys Villa,"7682 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,3.9,NA
+Soupergirl,"314 Carroll St NW, Washington, DC 20012, USA",NA,1,4.5,NA
+Chinatown Restaurant,"1163 University Blvd E, Takoma Park, MD 20912, USA",NA,2,3.5,NA
+McDonald's,"6301 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,3.6,NA
+Popeyes Louisiana Kitchen,"6350 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,1,3.7,NA
+Manna Restaurant,"#G11, La Union Mall, University Blvd E, Hyattsville, MD 20783, USA",NA,2,4.2,NA
+Junction Jamaican Restaurant,"1527 A University Blvd E, Hyattsville, MD 20783, USA",NA,NA,4.5,NA
+Evolve Vegan Restaurant,"341 Cedar St NW, Washington, DC 20012, USA",NA,2,4.2,NA
+Pollo Campero,"1355 University Blvd E, Takoma Park, MD 20912, USA",NA,1,3.9,NA
+EL TEJANO BAR & GRILL RESTAURANT,"6847 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,3.8,NA
+El Golfo Restaurant,"8739 Flower Ave, Silver Spring, MD 20901, USA",NA,2,4.5,NA
+Tijuana Mexican Cafe,"949 University Blvd E, Takoma Park, MD 20912, USA",NA,2,3.9,NA
+Campeon Pollo a la Brasa,"902 Merrimac Dr, Takoma Park, MD 20912, USA",NA,NA,3.8,NA
+Takoma Park Shopping Center,"6875 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,4.1,NA
+Sakura Teriyaki,"6843 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,3.8,NA
+Samantha's Restaurant,"631 University Blvd E, Silver Spring, MD 20901, USA",NA,2,4.4,NA
+Trattoria da Lina,"7000 Carroll Ave, Takoma Park, MD 20912, USA",NA,2,4.6,NA
+Veronica's Bakery & Cafe,"8501 Piney Branch Rd, Silver Spring, MD 20901, USA",NA,NA,4.1,NA
+Moh Moh Licious,"7414 Georgia Ave #1, Washington, DC 20012, USA",NA,NA,4.5,NA
+Beijing Delight,"8646 Flower Ave, Takoma Park, MD 20912, USA",NA,NA,3.9,NA
+Congress+ Restaurant,"6834 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,NA,NA
+Tipico Dominicano Food Truck,"7216 New Hampshire Ave, Takoma Park, MD 20912, USA",NA,NA,4.3,NA
+Pupuseria La Cabanita,"1511 University Blvd E, Hyattsville, MD 20783, USA",NA,NA,4.3,NA
+Horace and Dickies,"6912 4th St NW, Washington, DC 20012, USA",NA,1,3.8,NA
+El-Gavilan Restaurant,"8805 Flower Ave, Silver Spring, MD 20901, USA",NA,2,4.2,NA
+Buena Vida Restaurant,"8407 Ramsey Ave, Silver Spring, MD 20910, USA",NA,2,4.4,NA
+Pho 301,"1425 University Blvd E # 167, Hyattsville, MD 20783, USA",NA,1,4.4,NA
